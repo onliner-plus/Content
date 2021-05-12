@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/72afb75f5516/952854b8bc84/18dda925c212/RCd62a54d3266e4717b3d0b25304b90e57-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/72afb75f5516/952854b8bc84/18dda925c212/RCd62a54d3266e4717b3d0b25304b90e57-source.min.js', "!function(){var t=document.createElement(\"script\");t.type=\"text/javascript\",t.async=!0,t.src=\"https://vk.com/js/api/openapi.js?168\",t.onload=function(){VK.Retargeting.Init(\"VK-RTRG-248024-eX6pA\"),VK.Retargeting.Hit()},document.head.appendChild(t)}();");
